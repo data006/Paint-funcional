@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\bin\Debug\PaintsitoVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\bin\Debug\PaintsitoVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\bin\Debug\PaintsitoVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\bin\Debug\PaintsitoVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.frmPaintsitoVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\16\vb\PaintsitoVB\PaintsitoVB\obj\Debug\PaintsitoVB.pdb
